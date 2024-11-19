@@ -1,0 +1,54 @@
+img{width: 250px;
+
+ }
+#Nitish{background-color: darkgreen;
+    width: 250px;
+    border-radius: 35px;
+    box-shadow: 10px 10px 10px black;
+}
+.DCapitals{background-color: goldenrod;
+    width: 270px; 
+border-radius: 20px;
+box-shadow: 10px 10px 10px blueviolet;
+}
+.MIndians{
+    background-color: crimson;
+    width: 270px;
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 30%;
+}
+.GTaitans{background-color: darksalmon;
+width: 230px;
+box-shadow: 20px 20px 20px black;
+border-radius: 05%;
+}
+
+.RCb{background-color: orangered;
+    width: 280px;
+    border-radius: 20%;
+box-shadow: 15px 15px 15px black;
+
+}
+
+#Dhoni{background-color: blue;
+    width: 350px;
+    box-shadow: 30px 30px 30px black;
+border-radius: 50%;
+}
+
+#shivam{background-color: rgb(23, 23, 241);
+width: 290px;
+box-shadow: 25px 25px 25px;
+border-radius: 45%;
+}
+#mainHeading{color: rgb(240, 225, 14);
+    background-color: rgb(5, 25, 90);
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 10px rgb(14, 2, 2);
+    box-shadow: 10px 10px 10px black;
+    border: 10px double rgb(240, 236, 236);
+    border-radius: 50px;
+
+}
